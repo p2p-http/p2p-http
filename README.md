@@ -34,10 +34,15 @@
 
 
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=p2p-http&" alt="p2p-http" /></p>
+<p align="center">
+  <img
+    src="https://github-readme-streak-stats.herokuapp.com/?user=p2p-http&theme=dark&hide_border=true&background=0D1117&ring=7C3AED&fire=A78BFA&currStreakLabel=C4B5FD&sideLabels=94A3B8&currStreakNum=FFFFFF&sideNums=E2E8F0&dates=64748B"
+    alt="p2p-http GitHub Streak"
+    width="65%"
+  />
+</p>
 
 
----
 
 <p align="center">
   <img
